@@ -5,7 +5,8 @@ Tableau project showcasing data visualization, mapping, and revenue trend analys
 An Tableau dashboard analyzing Airbnb listings, average prices, and revenue trends across different zip codes and bedroom counts.  
 This project demonstrates data visualization**, storytelling, and business insight generation using Tableau.
 
----
+<img width="1651" height="767" alt="image" src="https://github.com/user-attachments/assets/b87daba0-b1b6-4be8-8a10-d61227dc11a1" />
+
 
 ## Key Insights
 - Average Price per Bedroom: Prices increase consistently with more bedrooms (1BHK ~ $96, 6BHK ~ $584).  
